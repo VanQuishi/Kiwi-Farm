@@ -48,6 +48,8 @@ number of harvested kiwis and rotten kiwis tallied
 throughout the entire week.
 
 Hints
+
   The kiwi matrix will always be a square and the size will
 always be even (so calculating 50% will be easier)
+
   You are required to use pointers to solve the problem
