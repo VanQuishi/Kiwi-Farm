@@ -8,8 +8,11 @@ Description
 
 Let’s say your kiwi farm is represented by a matrix:
 4 6 8 9
+
 0 0 1 0
+
 7 7 5 6
+
 2 1 7 7
 
 Each number represents the
