@@ -214,58 +214,6 @@ int main() {
     patch.result(outFile);
     outFile.close();
 
-
-    //==========================
-
-    /*cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-
-    patch.end_of_day();
-    cout << "end of day 1: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 2: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 3: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 4: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 5: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 6: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-    patch.grow();
-
-    patch.end_of_day();
-    cout << "end of day 7: " << endl;
-    cout << "ripe: " << patch.getRipe() << endl;
-    cout << "rotten: " << patch.getRotten() << endl;
-
-    patch.print();*/
-
-    
-    
-
     return 0;
 
 }
