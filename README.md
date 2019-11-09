@@ -7,6 +7,7 @@ Description
   harvest and replant your kiwis.
 
 Let’s say your kiwi farm is represented by a matrix:
+
 4 6 8 9
 
 0 0 1 0
@@ -47,6 +48,6 @@ number of harvested kiwis and rotten kiwis tallied
 throughout the entire week.
 
 Hints
-- The kiwi matrix will always be a square and the size will
+  The kiwi matrix will always be a square and the size will
 always be even (so calculating 50% will be easier)
-- You are required to use pointers to solve the problem
+  You are required to use pointers to solve the problem
